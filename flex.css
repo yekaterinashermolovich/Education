@@ -16,4 +16,6 @@
     height: 100px;
 }
 
-
+ul {
+    list-style: none;
+}
